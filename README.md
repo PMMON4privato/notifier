@@ -4,7 +4,7 @@
 [![License: APACHE](https://img.shields.io/badge/license-Apache%20License%202.0-b)](https://opensource.org/licenses/Apache-2.0)
 
 
-# Notifications Microservice
+## Notifications Microservice
 The notifications microservice is an independently deployable component intended for sending various types of notifications. 
 It provides a common abstraction layer on top of the various notification types and actual sending, tracking routines.
 
